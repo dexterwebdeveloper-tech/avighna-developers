@@ -152,7 +152,7 @@
 
         <!-- Realock information section starts -->
 
-        <section id="realock_info">
+        <!-- <section id="realock_info">
             <div class="container content_info">
                 <div class="row">
                     <div class="col-lg-6 col-md-12 info_heading">
@@ -167,8 +167,90 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
+        <!-- <section id="realock_info">
+    <div class="container content_info bg-red">
+        <div class="row align-items-center">
+
+            <div class="col-lg-6 col-md-12">
+                <img src="assets/images/mavel.jpeg" alt="Avighna Developers" class="img-fluid about-img">
+            </div>
+
+            <div class="col-lg-6 col-md-12 para_info">
+
+                <p><span>Avighna Developer’s, Since 2016</span> At Avighna Developer’s, we believe in delivering excellence in every aspect of our projects. From meticulous planning and design to the use of high-quality materials and superior craftsmanship, we ensure every detail is taken care of.</p>
+
+                <p>Our team of experienced professionals, including architects, engineers, and project managers, work tirelessly to create iconic structures that blend seamlessly with the surrounding environment.</p>
+
+                <p>With our unwavering commitment to customer satisfaction, Avighna Developer’s has earned the trust and loyalty of our esteemed clientele.</p>
+
+                <p>As we continue to grow, Avighna Developer’s remains dedicated to raising the bar in the real estate industry.</p>
+            </div>
+
+        </div>
+    </div>
+</section> -->
+
+
+<section id="realock_info">
+    <div class="container">
+        <div class="about-card">
+
+            <div class="row align-items-center">
+
+                <!-- Left Image -->
+                <div class="col-lg-6 mb-4 mb-lg-0">
+  <h2 class="about-title">
+                            About Avighna Developers
+                        </h2>
+                            <h5 class="about-subtitle">
+                            Building Dreams Since 2016
+                        </h5>
+                    <div class="about-image">
+
+                        <img src="assets/images/property-6.jpg"
+                            alt="Avighna Developers"
+                            class="img-fluid about-img">
+
+                    </div>
+
+                </div>
+
+                <!-- Right Content -->
+                <div class="col-lg-6">
+
+                    <div class="about-content">
+
+                      
+
+                    
+
+                        <p>
+                            At <strong>Avighna Developers</strong>, we believe in delivering excellence in every aspect of our projects. From meticulous planning and innovative architectural designs to the use of premium-quality materials and exceptional craftsmanship, every project is developed with precision and care.
+                        </p>
+
+                        <p>
+                            Our experienced team of architects, engineers, designers, and project managers work together to create iconic residential spaces that perfectly blend luxury, comfort, functionality, and modern lifestyle.
+                        </p>
+
+                        <p>
+                            With our unwavering commitment to quality, transparency, and customer satisfaction, Avighna Developers has earned the trust of hundreds of happy families by delivering homes that exceed expectations.
+                        </p>
+
+                        <p>
+                            As we continue to grow, our vision remains focused on building landmark developments that redefine urban living while creating lasting value for our customers and communities.
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</section>
         <!-- Realock Information section ends -->
 
         <!-- Slider section starts -->
@@ -256,7 +338,7 @@
                    
                 </div>
 
-                <div id="property-listings" class="pt-80">
+                <div id="property-listings" class="pt-3">
                     <div class="property">
                         <div class=""><img src="assets/images/property-listing/property-1.png"
                                 alt="property_image">
@@ -326,19 +408,19 @@
 
         <!-- Buyer and seller section starts-->
 
-        <section id="buyer_seller_section" class="mt-100">
+        <section id="buyer_seller_section" class="mt-50">
             <div class="bg_img_buyer_seller">
                 <div class="container">
-                    <div class="row buyer_seller_top_inner_section">
+                    <div class="row buyer_seller_top_inner_section p-0 ">
                         <div class="col-md-6 col-12 left_column">
                             <img class="img_shadow" src="assets/images/house-images/house-1.png" alt="house-image">
                         </div>
                         <div class="col-md-6 col-12 right_column">
                             <div class="buyer_seller_title">
-                                <h5>Company  Mission</h5>
+                                <h5>Company Mission</h5>
                             </div>
-                            <div class="buyer_seller_heading">
-                                <h2>your dream home.</h2>
+                            <div class="buyer_seller_heading ">
+                                <h2 class="headding">your dream home.</h2>
                             </div>
                             <div class="buyer_seller_para">
                                 <p>To become the most preferred choice for customers by attaining excellence in quality and timely completed value-added projects.
@@ -357,7 +439,7 @@
                                 <h5>Company Target</h5>
                             </div>
                             <div class="buyer_seller_heading">
-                                <h2>Our Target</h2>
+                                <h2 class="headding">Our Target</h2>
                             </div>
                             <div class="buyer_seller_para">
                                 <p>To grow our reach in Pune by opening new locations in specific neighborhoods with a high demand for our services. This will allow us to better serve our customers and grow our business.
@@ -377,20 +459,13 @@
 
         <!-- Category section starts-->
 
-        <section id="category_section" class="mt-100">
+        <section id="category_section" class="mt-50">
             <div class="container">
                 <div class="row">
-                    <!-- <div class="col-lg-9 col-md-8 col-12">
-                        <div class="theme_heading">
-                            <h2>Best Project</h2>
-                        </div>
-                        <div class="theme_description">
-                            <p class="mt-15">Projects all over Pune and Maharashtra.</p>
-                        </div>
-                    </div> -->
+                  
                    <div class="col-lg-9 col-md-8 col-12">
     <div class="theme_heading">
-        <h2>Upcoming Projects</h2>
+        <h2 class="headding">Upcoming Projects</h2>
     </div>
     <div class="theme_description">
         <p class="mt-15">Explore our upcoming projects across Pune and Maharashtra.</p>
@@ -441,46 +516,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="col-md-4 col-6 category_column">
-                        <div class="real_estate_categories">
-                            <div class="category_items">
-                                <a class="category_items_link" href="javascript:void(0);">
-                                    <div class="p_category_image"
-                                        style="background-image: url('assets/images/categories/category-2.png');">
-                                    </div>
-                                    <h4 class="category_title"> HANDEWADI</h4>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-4 col-6 category_column">
-                        <div class="real_estate_categories">
-                            <div class="category_items">
-                                <a class="category_items_link" href="javascript:void(0);">
-                                    <div class="p_category_image"
-                                        style="background-image: url('assets/images/categories/category-3.png');">
-                                    </div>
-                                    <h4 class="category_title">MAHABALESHWAR</h4>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-4 col-6 category_column">
-                        <div class="real_estate_categories">
-                            <div class="category_items">
-                                <a class="category_items_link" href="javascript:void(0);">
-                                    <div class="p_category_image"
-                                        style="background-image: url('assets/images/categories/category-4.png');">
-                                    </div>
-                                    <h4 class="category_title">KUNJIRWADI</h4>
-                                </a>
-                            </div>
-                        </div>
-                    </div> -->
-
-               
+                    
                   
                 </div>
             </div>
@@ -586,7 +622,7 @@
 
         <!-- Agent section starts-->
 
-        <section id="agent_section" class="mt-100">
+        <section id="agent_section" class="mt-50">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-9 col-md-8 col-12">
@@ -600,7 +636,7 @@
                    
                 </div>
 
-                <div id="agent-listings" class="pt-80">
+                <div id="agent-listings" class="pt-">
 
                     <div class="agent">
                         <div class="agent_detail">
@@ -697,7 +733,7 @@
 
       <!-- Estimate section starts-->
 
-      <section id="estimate_section" class="mt-100">
+      <section id="estimate_section" class="mt-">
             <div class="container">
                 <div class="estimate_inner_section">
                     <div class="row estimate_inner_row">
@@ -734,7 +770,7 @@ Email id : sales@avighnadevelopers.com </p>
                 <div class="footer_top">
                     <div class="row site_name">
                         <div class="col-md-6 col-12 column_1">
-                        <a class="site_logo" href="#realock_info"><img src="assets/images/logo/logo-light.png" alt=""> </a>
+                        <a class="site_logo" href="#realock_info"><img src="assets/images/logo/logo-light.jpg" alt=""> </a>
                             
                         </div>
                         <div class="col-md-6 col-12 column_2">
@@ -793,15 +829,12 @@ Email id : sales@avighnadevelopers.com </p>
                     </div>
                 </div>
 
-                <div class="footer_bottom">
+                <div class="footer_bottom text-center">
                     <div class="row site_info">
                         <div class="col-xl-10 col-lg-7 col-md-6 col-12 column_1">
-                        <p>All Rights Reserved @ <?php echo date("Y"); ?>  AVIGHNA DEVELOPERS <span class="current-year"></span> Developed By <a href="https://dexterintelligence.com/" target="_blank">Dexter Intelligence</a> | Hosted By <a href="http://urvahosting.com/" target="_blank">Urva Hosting</a></p>
+                        <p>All Rights Reserved @ <?php echo date("Y"); ?>  AVIGHNA DEVELOPERS <span class="current-year"></span> Developed By <a href="https://dexterintelligence.com/" target="_blank">Dexter Intelligence</a></a></p>
                         </div>
-                        <!-- <div class="col-xl-4 col-lg-5 col-md-6 col-12 column_2">
-                            <a href="javascript:void(0);" class="site_policy">privacy policy</a>
-                            <a href="javascript:void(0);" class="site_conditions">terms & conditions</a>
-                        </div> -->
+                       
                     </div>
                 </div>
             </div>
