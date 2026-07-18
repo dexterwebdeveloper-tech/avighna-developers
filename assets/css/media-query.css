@@ -198,7 +198,7 @@
         padding: 0 !important;
     }
     .mobile_sidebar_nav {
-        display: none;
+        /* display: none; */
     }
 }
 
@@ -268,7 +268,7 @@
     }
     .sidebar_icon svg {
         font-size: 32px;
-        color: #1d44f9;
+        color: #242F67;
         border: none;
         width: 24px;
         height: 24px;

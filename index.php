@@ -42,16 +42,16 @@
 
         <header class="site_header">
             <div class="header_top">
-                <div class="container content_header_top">
+                <div class="container content_header_top d-block">
                     <div class="contact_information">
-                        <div class="column_1">
+                        <div class="column_1 d-block">
                             <a href="javascript:void(0);"><i class="header_top_icons fa-solid fa-square-phone"></i></a>
-                            <a href="tel:+91 7499400853 " class="header_top_text contact_number">+91 7499400853 </a>
+                            <a href="tel:+91 7499400853 " class="header_top_text contact_number fw-bold">+91 7499400853 </a>
                         </div>
                         <div class="column_2">
                             <a href="javascript:void(0);"><i class="header_top_icons fa-solid fa-envelope"></i></a>
                             <a href="mailto:sales@avighnadevelopers.com"
-                                class="header_top_text contact_mail">sales@avighnadevelopers.com</a>
+                                class="header_top_text contact_mail fw-bold">sales@avighnadevelopers.com</a>
                         </div>
                         <div class="column_3">
                             <a href="https://www.facebook.com/" target="_blank"><i class="header_top_icons fa-brands fa-facebook-f"></i></a>
@@ -149,6 +149,267 @@
         </header>
 
         <!-- Header ends -->
+
+
+        <!-- Slider section starts -->
+
+        <!-- <section id="image_slider_section">
+            <div class="container">
+                <div class="realock_form_content">
+                    <h2 class="d-none">image slider</h2>
+                   
+                </div>
+
+                <div class="image_slider">
+                    <div class="slide image_1">
+                        <img src="assets/images/image-gallery/image-1.png" alt="gallery-image">
+                    </div>
+                    <div class="slide image_2">
+                        <img src="assets/images/image-gallery/image-2.png" alt="gallery-image">
+                    </div>
+                    <div class="slide image_3">
+                        <img src="assets/images/image-gallery/image-3.png" alt="gallery-image">
+                    </div>
+                    <div class="slide image_4">
+                        <img src="assets/images/image-gallery/image-4.png" alt="gallery-image">
+                    </div>
+                    <div class="slide image_5">
+                        <img src="assets/images/image-gallery/image-5.png" alt="gallery-image">
+                    </div>
+                    <div class="slide image_6">
+                        <img src="assets/images/image-gallery/image-6.png" alt="gallery-image">
+                    </div>
+                    <div class="slide image_7">
+                        <img src="assets/images/image-gallery/image-7.png" alt="gallery-image">
+                    </div>
+                    <div class="slide image_8">
+                        <img src="assets/images/image-gallery/image-8.png" alt="gallery-image">
+                    </div>
+                    <div class="slide image_9">
+                        <img src="assets/images/image-gallery/image-9.png" alt="gallery-image">
+                    </div>
+                    <div class="slide image_10">
+                        <img src="assets/images/image-gallery/image-10.png" alt="gallery-image">
+                    </div>
+                </div>
+            </div>
+        </section> -->
+<section id="image_slider_section">
+    <div class="container">
+
+        <div class="image_slider">
+
+            <!-- Slide 1 -->
+            <div class="slide hero-slide">
+                <img src="assets/images/image-gallery/image-1.png" alt="Avighna Developers">
+
+                <div class="hero-content">
+                    <span class="hero-tag">WELCOME TO</span>
+
+                    <h1>Avighna Developers</h1>
+
+                    <p>
+                        Building Dreams with Quality, Trust & Innovation Since 2016.
+                        Creating premium residential and commercial spaces across Pune.
+                    </p>
+
+                   
+                </div>
+            </div>
+
+            <!-- Slide 2 -->
+            <div class="slide hero-slide">
+                <img src="assets/images/image-gallery/image-2.png" alt="Residential Projects">
+
+                <div class="hero-content">
+                    <span class="hero-tag">PREMIUM HOMES</span>
+
+                    <h1>Luxury Residential Projects</h1>
+
+                    <p>
+                        Experience thoughtfully designed homes with modern amenities,
+                        quality construction, and excellent connectivity.
+                    </p>
+
+                  
+                </div>
+            </div>
+
+            <!-- Slide 3 -->
+            <div class="slide hero-slide">
+                <img src="assets/images/image-gallery/image-3.png" alt="Commercial Projects">
+
+                <div class="hero-content">
+                    <span class="hero-tag">COMMERCIAL SPACES</span>
+
+                    <h1>Grow Your Business</h1>
+
+                    <p>
+                        Premium office spaces and commercial properties
+                        designed for success in prime business locations.
+                    </p>
+
+                   
+                </div>
+            </div>
+
+            <!-- Slide 4 -->
+            <div class="slide hero-slide">
+                <img src="assets/images/image-gallery/image-4.png" alt="Luxury Living">
+
+                <div class="hero-content">
+                    <span class="hero-tag">LIFESTYLE</span>
+
+                    <h1>Luxury Living Starts Here</h1>
+
+                    <p>
+                        Beautiful architecture, spacious layouts,
+                        landscaped surroundings and premium lifestyle amenities.
+                    </p>
+
+                   
+                </div>
+            </div>
+
+
+
+            <!-- Slide 11 -->
+<div class="slide hero-slide">
+    <img src="assets/images/property-listing/property-6.jpg" alt="Avighna Developers">
+
+    <div class="hero-content">
+        <span class="hero-tag">WHY CHOOSE US</span>
+
+        <h1>Building Trust, Creating Value</h1>
+
+        <p>
+            At Avighna Developers, every project is built with quality craftsmanship,
+            innovative design, transparent practices, and an unwavering commitment
+            to customer satisfaction. Together, we create spaces that inspire
+            generations.
+        </p>
+
+    </div>
+</div>
+
+
+            <!-- Slide 5 -->
+            <div class="slide hero-slide">
+                <img src="assets/images/image-gallery/image-5.png" alt="Quality Construction">
+
+                <div class="hero-content">
+                    <span class="hero-tag">QUALITY FIRST</span>
+
+                    <h1>Built on Trust & Excellence</h1>
+
+                    <p>
+                        Every project reflects superior engineering,
+                        premium materials and a commitment to timely delivery.
+                    </p>
+
+                   
+                </div>
+            </div>
+
+            <!-- Slide 6 -->
+            <div class="slide hero-slide">
+                <img src="assets/images/image-gallery/image-6.png" alt="Dream Home">
+
+                <div class="hero-content">
+                    <span class="hero-tag">YOUR DREAM HOME</span>
+
+                    <h1>Find Your Perfect Home</h1>
+
+                    <p>
+                        From elegant apartments to spacious family homes,
+                        we create spaces where every dream comes true.
+                    </p>
+
+                  
+                </div>
+            </div>
+
+            <!-- Slide 7 -->
+            <div class="slide hero-slide">
+                <img src="assets/images/image-gallery/image-7.png" alt="Prime Locations">
+
+                <div class="hero-content">
+                    <span class="hero-tag">PRIME LOCATIONS</span>
+
+                    <h1>Strategically Located Projects</h1>
+
+                    <p>
+                        Live close to schools, IT parks, hospitals,
+                        shopping centres and major highways.
+                    </p>
+
+                  
+                </div>
+            </div>
+
+            <!-- Slide 8 -->
+            <div class="slide hero-slide">
+                <img src="assets/images/image-gallery/image-8.png" alt="Modern Architecture">
+
+                <div class="hero-content">
+                    <span class="hero-tag">MODERN DESIGN</span>
+
+                    <h1>Designed for Better Living</h1>
+
+                    <p>
+                        Elegant architecture, efficient layouts,
+                        green surroundings and contemporary living spaces.
+                    </p>
+
+                   
+                </div>
+            </div>
+
+            <!-- Slide 9 -->
+            <div class="slide hero-slide">
+                <img src="assets/images/image-gallery/image-9.png" alt="Investment">
+
+                <div class="hero-content">
+                    <span class="hero-tag">SMART INVESTMENT</span>
+
+                    <h1>Invest with Confidence</h1>
+
+                    <p>
+                        Choose a trusted developer delivering quality,
+                        value appreciation and complete customer satisfaction.
+                    </p>
+
+                   
+                </div>
+            </div>
+
+            <!-- Slide 10 -->
+            <div class="slide hero-slide">
+                <img src="assets/images/image-gallery/image-10.png" alt="Contact Avighna Developers">
+
+                <div class="hero-content">
+                    <span class="hero-tag">LET'S BUILD TOGETHER</span>
+
+                    <h1>Your Future Begins Here</h1>
+
+                    <p>
+                        Discover premium residential and commercial opportunities
+                        with Avighna Developers. Contact us today to get started.
+                    </p>
+
+                  
+                </div>
+            </div>
+
+
+            
+
+
+
+        </div>
+
+    </div>
+</section>
 
         <!-- Realock information section starts -->
 
@@ -253,49 +514,6 @@
 </section>
         <!-- Realock Information section ends -->
 
-        <!-- Slider section starts -->
-
-        <section id="image_slider_section">
-            <div class="container">
-                <div class="realock_form_content">
-                    <h2 class="d-none">image slider</h2>
-                   
-                </div>
-
-                <div class="image_slider">
-                    <div class="slide image_1">
-                        <img src="assets/images/image-gallery/image-1.png" alt="gallery-image">
-                    </div>
-                    <div class="slide image_2">
-                        <img src="assets/images/image-gallery/image-2.png" alt="gallery-image">
-                    </div>
-                    <div class="slide image_3">
-                        <img src="assets/images/image-gallery/image-3.png" alt="gallery-image">
-                    </div>
-                    <div class="slide image_4">
-                        <img src="assets/images/image-gallery/image-4.png" alt="gallery-image">
-                    </div>
-                    <div class="slide image_5">
-                        <img src="assets/images/image-gallery/image-5.png" alt="gallery-image">
-                    </div>
-                    <div class="slide image_6">
-                        <img src="assets/images/image-gallery/image-6.png" alt="gallery-image">
-                    </div>
-                    <div class="slide image_7">
-                        <img src="assets/images/image-gallery/image-7.png" alt="gallery-image">
-                    </div>
-                    <div class="slide image_8">
-                        <img src="assets/images/image-gallery/image-8.png" alt="gallery-image">
-                    </div>
-                    <div class="slide image_9">
-                        <img src="assets/images/image-gallery/image-9.png" alt="gallery-image">
-                    </div>
-                    <div class="slide image_10">
-                        <img src="assets/images/image-gallery/image-10.png" alt="gallery-image">
-                    </div>
-                </div>
-            </div>
-        </section>
 
         <!-- Slider section ends -->
 
@@ -526,97 +744,139 @@
 
         <!-- Testimonial section starts-->
 
-        <section id="testimonial_section" class="mt-100">
-            <div class="bg_img_testimonial">
-                <div class="container">
-                    <div class="theme_heading">
-                        <h2>Testimonials</h2>
-                    </div>
-                    <div class="theme_description">
-                        <p class="mt-15">Testimonials from clients.</p>
-                    </div>
-                    <div class="testimonial_inner_section">
+     <!-- Testimonials Section -->
+<section id="testimonial_section" class="mt-100">
+    <div class="bg_img_testimonial">
+        <div class="container">
 
-                  
-                        <div class="client_testimonials">
-                            <div class="testimonial">
-                                <div class="testimonial_icon">
-                                    <i class="fa-solid fa-quote-left"></i>
-                                </div>
-                                <div class="client_review">
-                                    <p>“I am delighted to write this testimonial for Avighna Developers, who have been instrumental in making my dream home a reality. ”</p>
-                                </div>
-                                <div class="client_name">
-                                    <h4>Mr. Satish</h4>
-                                </div>
-                                
-                            </div>
-                        </div>
-
-                        <div class="client_testimonials">
-                            <div class="testimonial">
-                                <div class="testimonial_icon">
-                                    <i class="fa-solid fa-quote-left"></i>
-                                </div>
-                                <div class="client_review">
-                                    <p>“Their expertise and knowledge in the real estate industry were evident throughout the entire process. ”</p>
-                                </div>
-                                <div class="client_name">
-                                    <h4>Mrs. Sakshi</h4>
-                                </div>
-                                
-                            </div>
-                        </div>
-
-                        <div class="client_testimonials">
-                            <div class="testimonial">
-                                <div class="testimonial_icon">
-                                    <i class="fa-solid fa-quote-left"></i>
-                                </div>
-                                <div class="client_review">
-                                    <p>“The quality of construction and the craftsmanship exhibited by Avighna Developers is truly commendable. ”</p>
-                                </div>
-                                <div class="client_name">
-                                    <h4>Mr. Rohit</h4>
-                                </div>
-                                
-                            </div>
-                        </div>
-
-                        <div class="client_testimonials">
-                            <div class="testimonial">
-                                <div class="testimonial_icon">
-                                    <i class="fa-solid fa-quote-left"></i>
-                                </div>
-                                <div class="client_review">
-                                    <p>“ They used the finest materials, incorporated modern designs, and ensured that the functionality of the space met all my requirements.”</p>
-                                </div>
-                                <div class="client_name">
-                                    <h4>Mr. Sandeep</h4>
-                                </div>
-                                
-                            </div>
-                        </div>
-
-                        <div class="client_testimonials">
-                            <div class="testimonial">
-                                <div class="testimonial_icon">
-                                    <i class="fa-solid fa-quote-left"></i>
-                                </div>
-                                <div class="client_review">
-                                    <p>“I would highly recommend Avighna Developers to anyone looking for a reliable and trustworthy real estate developer.”</p>
-                                </div>
-                                <div class="client_name">
-                                    <h4>Mr. Ashutosh</h4>
-                                </div>
-                                
-                            </div>
-                        </div>
-
-                   </div>
-                </div>
+            <div class="theme_heading">
+                <h2>Testimonials</h2>
             </div>
-        </section>
+
+            <div class="theme_description">
+                <p class="mt-15">
+                    Hear what our happy homeowners and valued clients have to say about their experience with Avighna Developers.
+                </p>
+            </div>
+
+            <div class="testimonial_inner_section">
+
+                <!-- Testimonial 1 -->
+                <div class="client_testimonials">
+                    <div class="testimonial">
+
+                        <div class="testimonial_icon">
+                            <i class="fa-solid fa-quote-left"></i>
+                        </div>
+
+                        <div class="client_review">
+                            <p>
+                                "Avighna Developers transformed our dream into reality. The quality of construction,
+                                timely possession, and professional approach exceeded our expectations. We are proud
+                                to be a part of the Avighna family."
+                            </p>
+                        </div>
+
+                        <div class="client_name">
+                            <h4>Mr. Satish Patil</h4>
+                        </div>
+
+                    </div>
+                </div>
+
+                <!-- Testimonial 2 -->
+                <div class="client_testimonials">
+                    <div class="testimonial">
+
+                        <div class="testimonial_icon">
+                            <i class="fa-solid fa-quote-left"></i>
+                        </div>
+
+                        <div class="client_review">
+                            <p>
+                                "From booking to possession, the entire journey was transparent and hassle-free.
+                                Their customer support and attention to detail truly impressed our family."
+                            </p>
+                        </div>
+
+                        <div class="client_name">
+                            <h4>Mrs. Sakshi Kulkarni</h4>
+                        </div>
+
+                    </div>
+                </div>
+
+                <!-- Testimonial 3 -->
+                <div class="client_testimonials">
+                    <div class="testimonial">
+
+                        <div class="testimonial_icon">
+                            <i class="fa-solid fa-quote-left"></i>
+                        </div>
+
+                        <div class="client_review">
+                            <p>
+                                "The project reflects outstanding workmanship and premium construction quality.
+                                Every detail has been thoughtfully designed to provide comfort and elegance."
+                            </p>
+                        </div>
+
+                        <div class="client_name">
+                            <h4>Mr. Rohit Deshmukh</h4>
+                        </div>
+
+                    </div>
+                </div>
+
+                <!-- Testimonial 4 -->
+                <div class="client_testimonials">
+                    <div class="testimonial">
+
+                        <div class="testimonial_icon">
+                            <i class="fa-solid fa-quote-left"></i>
+                        </div>
+
+                        <div class="client_review">
+                            <p>
+                                "The team guided us throughout the entire buying process with honesty and professionalism.
+                                We highly appreciate their commitment to quality and customer satisfaction."
+                            </p>
+                        </div>
+
+                        <div class="client_name">
+                            <h4>Mr. Sandeep Jadhav</h4>
+                        </div>
+
+                    </div>
+                </div>
+
+                <!-- Testimonial 5 -->
+                <div class="client_testimonials">
+                    <div class="testimonial">
+
+                        <div class="testimonial_icon">
+                            <i class="fa-solid fa-quote-left"></i>
+                        </div>
+
+                        <div class="client_review">
+                            <p>
+                                "Choosing Avighna Developers was one of the best decisions we made. Their trustworthy
+                                approach, premium amenities, and excellent project execution make them a highly recommended developer."
+                            </p>
+                        </div>
+
+                        <div class="client_name">
+                            <h4>Mr. Ashutosh Shinde</h4>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</section>
 
         <!-- Testimonial section ends-->
 
