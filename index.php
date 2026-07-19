@@ -1101,6 +1101,12 @@ Email id : sales@avighnadevelopers.com </p>
                                 
                             </form>
 
+                           <span class=" text-white">
+  <strong class="text-white">Avighna Developers</strong><br />
+  Office No. 404, Gandharva Capital, Bhosale Nagar,<br />
+  Hadapsar, Pune, Maharashtra 411028, India
+</span>
+
                             <!-- <ul class="site_social_media">
     <li class="social_media_icons">
         <a href="https://www.facebook.com/" target="_blank">
@@ -1121,27 +1127,27 @@ Email id : sales@avighnadevelopers.com </p>
     </li>
 </ul> -->
 
-<ul class="footer-social-list">
+<ul class="footer-social-list d-flex">
 
-    <li class="footer-social-item">
+    <li class="footer-social-item px-1">
         <a href="https://www.facebook.com/" target="_blank" class="footer-social-link facebook" aria-label="Facebook">
             <i class="fa-brands fa-facebook-f"></i>
         </a>
     </li>
 
-    <li class="footer-social-item">
+    <li class="footer-social-item px-1">
         <a href="https://twitter.com/" target="_blank" class="footer-social-link twitter" aria-label="Twitter">
             <i class="fa-brands fa-twitter"></i>
         </a>
     </li>
 
-    <li class="footer-social-item">
+    <li class="footer-social-item px-1">
         <a href="https://www.linkedin.com/" target="_blank" class="footer-social-link linkedin" aria-label="LinkedIn">
             <i class="fa-brands fa-linkedin-in"></i>
         </a>
     </li>
 
-    <li class="footer-social-item">
+    <li class="footer-social-item px-1">
         <a href="https://www.instagram.com/" target="_blank" class="footer-social-link instagram" aria-label="Instagram">
             <i class="fa-brands fa-instagram"></i>
         </a>
