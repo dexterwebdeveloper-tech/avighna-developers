@@ -3417,3 +3417,286 @@ font-size:14px;
         font-size:16px;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*=============================
+  MOBILE HEADER
+=============================*/
+@media (max-width:767px){
+
+.header_top{
+    background:#27306b;
+    padding:10px 0;
+}
+
+.header_top .container{
+    padding:0 15px;
+}
+
+.header_top .contact_information{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    gap:10px;
+    width:100%;
+}
+
+/* Phone & Email */
+.header_top .column_1,
+.header_top .column_2{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:10px;
+    width:100%;
+}
+
+.header_top .column_1 a,
+.header_top .column_2 a{
+    text-decoration:none;
+}
+
+/* Icons */
+.header_top_icons{
+    width:34px;
+    height:34px;
+    min-width:34px;
+    border-radius:50%;
+    background:#ffffff;
+    color:#27306b;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:15px;
+}
+
+/* Text */
+.contact_number,
+.contact_mail{
+    color:#fff !important;
+    font-size:15px;
+    font-weight:600;
+    line-height:1;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+/* Social Icons */
+.header_top .column_3{
+    width:100%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:15px;
+    margin-top:2px;
+}
+
+.header_top .column_3 a{
+    width:38px;
+    height:38px;
+    border-radius:50%;
+    background:#fff;
+    color:#27306b;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    text-decoration:none;
+    transition:.3s;
+}
+
+.header_top .column_3 a:hover{
+    background:#d7282f;
+    color:#fff;
+    transform:translateY(-3px);
+}
+
+/* Logo */
+.main_header{
+    padding:12px 0;
+}
+
+.logo img{
+    max-width:180px;
+}
+
+/* Menu Button */
+.sidebar_icon{
+    width:48px;
+    height:48px;
+    border-radius:12px;
+    background:#fff;
+    border:2px solid #ececec;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.sidebar_icon i{
+    font-size:22px;
+    color:#27306b;
+}
+}
+
+
+/*=============================
+HEADER TOP
+=============================*/
+
+.header_top{
+    background:#28336d;
+    padding:12px 0;
+}
+
+.contact_information{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+/* Left Side */
+
+.left-contact{
+    display:flex;
+    align-items:center;
+    gap:30px;
+}
+
+.left-contact a{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    color:#fff;
+    text-decoration:none;
+    font-size:16px;
+    font-weight:500;
+}
+
+.left-contact i{
+    width:36px;
+    height:36px;
+    border-radius:50%;
+    background:#fff;
+    color:#28336d;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:15px;
+}
+
+/* Right Side */
+
+.right-social{
+    display:flex;
+    align-items:center;
+    gap:12px;
+}
+
+.right-social a{
+    width:36px;
+    height:36px;
+    border-radius:50%;
+    background:#fff;
+    color:#28336d;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-decoration:none;
+    transition:.3s;
+}
+
+.right-social a:hover{
+    background:#c7222b;
+    color:#fff;
+    transform:translateY(-3px);
+}
+
+
+
+@media (max-width:767px){
+
+.header_top{
+    background:#28336d;
+    padding:12px 15px;
+}
+
+.contact_information{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:12px;
+}
+
+/* Phone & Email */
+
+.left-contact{
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+}
+
+.left-contact a{
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:10px;
+    color:#fff;
+    text-decoration:none;
+    font-size:14px;
+    font-weight:600;
+
+    /* IMPORTANT */
+    white-space:normal;
+    word-break:break-word;
+    text-align:center;
+}
+
+.left-contact i{
+    width:34px;
+    height:34px;
+    min-width:34px;
+    border-radius:50%;
+    background:#fff;
+    color:#28336d;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:14px;
+}
+
+/* Social */
+
+.right-social{
+    display:flex;
+    justify-content:center;
+    gap:12px;
+    width:100%;
+}
+
+.right-social a{
+    width:42px;
+    height:42px;
+    border-radius:50%;
+    background:#fff;
+    color:#28336d;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:18px;
+}
+}

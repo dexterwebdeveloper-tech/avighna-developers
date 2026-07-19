@@ -41,7 +41,7 @@
         <!-- Header starts -->
 
         <header class="site_header">
-            <div class="header_top">
+            <!-- <div class="header_top">
                 <div class="container content_header_top d-block">
                     <div class="contact_information">
                         <div class="column_1 d-block">
@@ -59,8 +59,33 @@
                       </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
+<div class="header_top">
+    <div class="container">
+    <div class="contact_information">
 
+    <div class="left-contact">
+        <a href="tel:+917499400853">
+            <i class="fas fa-phone-alt"></i>
+            +91 7499400853
+        </a>
+
+        <a href="mailto:sales@avighnadevelopers.com">
+            <i class="fas fa-envelope"></i>
+            sales@avighnadevelopers.com
+        </a>
+    </div>
+
+    <div class="right-social">
+        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+    </div>
+
+</div>
+    </div>
+</div>
             <div class="container main_header">
                 <div class="logo">
                     <a class="site_logo" href="#realock_info"><img src="assets/images/logo/logo.png" alt=""> </a>

@@ -270,6 +270,53 @@
     -ms-transition: all .3s ease;
 }
 
+/* ================================
+   Mobile Slider Arrow
+==================================*/
+@media only screen and (max-width: 767px){
+
+    .image_slider{
+        position: relative;
+    }
+
+    .image_slider .slick-prev,
+    .image_slider .slick-next{
+
+        position:absolute !important;
+
+        top:50% !important;
+        transform:translateY(-50%) !important;
+
+        width:20px !important;
+        height:20px !important;
+
+        border-radius:50%;
+        background:#fff !important;
+
+        box-shadow:0 8px 20px rgba(0,0,0,.20);
+
+        z-index:9999 !important;
+    }
+
+    /* Left Arrow */
+    .image_slider .slick-prev{
+        left:0px !important;
+    }
+
+    /* Right Arrow */
+    .image_slider .slick-next{
+        right:1px !important;
+    }
+
+    .image_slider .slick-prev:before,
+    .image_slider .slick-next:before{
+        font-size:18px !important;
+        color:#1d2d5b !important;
+        opacity:1 !important;
+    }
+
+}
+
 .image_slider .slick-prev:before {
     content: '\f104' !important;
     font-family: "Font Awesome 6 Free";
@@ -564,7 +611,7 @@
         left: 10px;
     }
     .image_slider .slick-next {
-        right: 10px;
+        right: 1px;
     }
 }
 
