@@ -60,7 +60,7 @@
                     </div>
                 </div>
             </div> -->
-<div class="header_top">
+<div class="header_top d-none d-lg-block">
     <div class="container">
     <div class="contact_information">
 
@@ -1158,10 +1158,10 @@ Email id : sales@avighnadevelopers.com </p>
                         <div class="col-md-4 col-12 column_1">
                             <h4 class="site_about_heading">Map </h4>
                             <p class="site_about_para">
-                                 <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3783.5512010490925!2d73.9286232148925!3d18.503977387418704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDMwJzE0LjMiTiA3M8KwNTUnNTAuOSJF!5e0!3m2!1sen!2sin!4v1686127418863!5m2!1sen!2sin" width="250" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                                 -->
-
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d92196.50034745317!2d73.84086748906248!3d18.555070483283348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c1f6c7592e3b%3A0x77428ba27da9301!2sAvighna%20Developer%E2%80%99s!5e1!3m2!1sen!2sin!4v1784475017569!5m2!1sen!2sin" width="250" height="200" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+                                 <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3783.5512010490925!2d73.9286232148925!3d18.503977387418704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDMwJzE0LjMiTiA3M8KwNTUnNTAuOSJF!5e0!3m2!1sen!2sin!4v1686127418863!5m2!1sen!2sin" width="250" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+                                
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11527.989797646618!2d73.91235118894082!3d18.504241254438735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c1794dceae0b%3A0x1305a31f6c0eb1a5!2sGandharva%20Capital!5e1!3m2!1sen!2sin!4v1784812224282!5m2!1sen!2sin" width="250" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+                                    <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d92196.50034745317!2d73.84086748906248!3d18.555070483283348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c1f6c7592e3b%3A0x77428ba27da9301!2sAvighna%20Developer%E2%80%99s!5e1!3m2!1sen!2sin!4v1784475017569!5m2!1sen!2sin" width="250" height="200" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe> -->
                                 </p>
                             <!-- <ul class="site_social_media">
                                 <li class="social_media_icons">
